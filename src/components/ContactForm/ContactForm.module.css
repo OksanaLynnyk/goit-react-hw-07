@@ -1,0 +1,29 @@
+.formWrapper {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 15px;
+    gap: 15px;
+    max-width: 350px;
+    place-items: center;
+    border-radius: 5px;
+}
+
+.contactWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.fieldName {
+    margin-bottom: 10px;
+}
+
+.formInput {
+    padding: 8px;
+    outline: none;
+}
+
+.error {
+    color: red;
+}

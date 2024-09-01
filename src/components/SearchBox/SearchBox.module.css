@@ -1,0 +1,9 @@
+.searchWrapper {
+    min-width: 250px;
+    font-size: 18px;
+}
+
+.inputSearch {
+    padding: 8px;
+    outline: none;
+}
